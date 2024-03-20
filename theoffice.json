@@ -1,0 +1,72 @@
+[
+  {
+    "navn": "Michael Scott",
+    "alder": 45,
+    "email": "michael.scott@dundermifflin.com",
+    "billedplaceholder": "michael.jpg",
+    "yndlingsCitat": "That's what she said."
+  },
+  {
+    "navn": "Jim Halpert",
+    "alder": 32,
+    "email": "jim.halpert@dundermifflin.com",
+    "billedplaceholder": "jim.jpg",
+    "yndlingsCitat": "Bears, beets, Battlestar Galactica."
+  },
+  {
+    "navn": "Pam Beesly",
+    "alder": 30,
+    "email": "pam.beesly@dundermifflin.com",
+    "billedplaceholder": "pam.jpg",
+    "yndlingsCitat": "I feel God in this Chili's tonight."
+  },
+  {
+    "navn": "Dwight Schrute",
+    "alder": 37,
+    "email": "dwight.schrute@dundermifflin.com",
+    "billedplaceholder": "dwight.jpg",
+    "yndlingsCitat": "I am faster than 80% of all snakes."
+  },
+  {
+    "navn": "Angela Martin",
+    "alder": 35,
+    "email": "angela.martin@dundermifflin.com",
+    "billedplaceholder": "angela.jpg",
+    "yndlingsCitat": "I don't want to be a part of anything involving new people."
+  },
+  {
+    "navn": "Kevin Malone",
+    "alder": 40,
+    "email": "kevin.malone@dundermifflin.com",
+    "billedplaceholder": "kevin.jpg",
+    "yndlingsCitat": "Why waste time say lot word when few word do trick?"
+  },
+  {
+    "navn": "Stanley Hudson",
+    "alder": 58,
+    "email": "stanley.hudson@dundermifflin.com",
+    "billedplaceholder": "stanley.jpg",
+    "yndlingsCitat": "Did I stutter?"
+  },
+  {
+    "navn": "Oscar Martinez",
+    "alder": 35,
+    "email": "oscar.martinez@dundermifflin.com",
+    "billedplaceholder": "oscar.jpg",
+    "yndlingsCitat": "Actually, I'm not even mad. That's amazing."
+  },
+  {
+    "navn": "Creed Bratton",
+    "alder": 60,
+    "email": "creed.bratton@dundermifflin.com",
+    "billedplaceholder": "creed.jpg",
+    "yndlingsCitat": "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
+  },
+  {
+    "navn": "Meredith Palmer",
+    "alder": 45,
+    "email": "meredith.palmer@dundermifflin.com",
+    "billedplaceholder": "meredith.jpg",
+    "yndlingsCitat": "I'm not a regular mom, I'm a cool mom."
+  }
+]
